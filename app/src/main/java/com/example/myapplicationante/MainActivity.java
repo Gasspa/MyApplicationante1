@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 showEditDialog();
             }
         });
+        wyswietl.setText("Witaj! Aplikacja wykonana przez: Kacper Maciaszek");
 
     }
     private void showEditDialog(){
